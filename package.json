@@ -1,8 +1,15 @@
 {
-  "name": "dark-cherry-blossom",
-  "displayName": "dark cherry blossom",
-  "description": "pink but dark",
-  "version": "0.0.1",
+  "name": "Sakura-Night",
+  "displayName": "Sakura Night",
+  "publisher": "Maryum721",
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/Maryum21/Sakura-Night"
+    },
+  "icon": "images/logo.jpg",
+  "description": "A dark theme with cherry blossom pink accents for those who code past midnight 🌸",
+  
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.120.0"
   },
