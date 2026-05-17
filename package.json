@@ -1,0 +1,21 @@
+{
+  "name": "dark-cherry-blossom",
+  "displayName": "dark cherry blossom",
+  "description": "pink but dark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sakura Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sakura Night-color-theme.json"
+      }
+    ]
+  }
+}
