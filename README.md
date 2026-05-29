@@ -5,7 +5,12 @@ made for those who code past midnight.
 
 ## Preview
 
+## Image 1
+
 ![Sakura Night Preview](images/preview1.png)
+
+## Image 2
+
 ![Sakura Night Preview](images/preview2.png)
 
 ## Install

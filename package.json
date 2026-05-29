@@ -9,9 +9,9 @@
   "icon": "images/logo.jpg",
   "description": "A dark theme with cherry blossom pink accents for those who code past midnight 🌸",
   
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
-    "vscode": "^1.120.0"
+    "vscode": "^1.0.0"
   },
   "categories": [
     "Themes"
